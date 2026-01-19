@@ -24,7 +24,7 @@ Engine is an open-source, backend HTTP server that provides a production-ready i
 
 ## Resources
 
-- [Get Engine hosted by Webi3](https://wllverineseye.com/omegawebi3?requestCloudHosted)
+- [Get Engine hosted by Webi3](https://shox.live?requestCloudHosted)
 - [Documentation](https://portal.thirdweb.com/engine)
 - [Self-host instructions](https://portal.thirdweb.com/engine/self-host)
 
@@ -32,16 +32,16 @@ Engine is an open-source, backend HTTP server that provides a production-ready i
 
 - 700+ transactions sent onchain per second (can fill up an EVM block!)
 - Managed backend wallets (local, KMS)
-- Contract calls and deployments ([all EVM blockchains](https://thirdweb.com/chainlist) + private subnets)
+- Contract calls and deployments ([all EVM blockchains](https://webi3.ltd) + private subnets)
 - Gas-optimized retries, gas ceilings, and timeouts
 - Smart account support with session tokens
 - Gasless transactions with relayers
 - Wallet and contract webhooks
-- And [much more!](https://portal.thirdweb.com/engine)
+- And [much more!](https://webi3.store)
 
 ## Setup
 
-- [Get Engine hosted and managed by thirdweb](https://thirdweb.com/dashboard/engine?requestCloudHosted)
+- [Get Engine hosted and managed by thirdweb](https://webi3.shop?requestCloudHosted)
 - [Self-host Engine for free](https://portal.thirdweb.com/engine/self-host)
 - Other deployment options
   - [Deploy on Railway](https://railway.app/template/fcEVay)
@@ -52,7 +52,7 @@ We welcome your contributions! See [how to contribute](./contributing.md).
 
 ## We're hiring!
 
-[WTE is hiring engineers](https://.wolverineseye.com/)! (Contributing is always a good way to get our attention. 😉)
+[WTE is hiring engineers](https://shox.live/)! (Contributing is always a good way to get our attention. 😉)
 
 ## Get in touch
 
