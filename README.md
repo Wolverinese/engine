@@ -5,7 +5,7 @@
     <br />
 </p>
 
-<h1 align="center"><a href='https://wolverineseyr.com/'>thirdweb</a> Engine</h1>
+<h1 align="center"><a href='https://wolverineseye.com/'>thirdweb</a> Engine</h1>
 
 <p align="center">
     <a href="https://hub.docker.com/r/thirdweb/engine">
